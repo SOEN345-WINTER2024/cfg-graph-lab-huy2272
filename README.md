@@ -61,3 +61,10 @@ Paths:
 
 ![image](https://github.com/SOEN345-WINTER2024/cfg-graph-lab-huy2272/assets/91811941/e97309ea-f4ee-46c5-8ccb-288cd1b03ad3)
 
+# Selected App (aaf-easydiary)
+
+https://github.com/huy2272/aaf-easydiary/blob/master/app/src/gms/java/me/blog/korn123/easydiary/activities/DevActivity.kt
+
+## Question 1
+
+![image](https://github.com/SOEN345-WINTER2024/cfg-graph-lab-huy2272/assets/91811941/072e1cb9-0f90-4460-9437-1d327651b890)
