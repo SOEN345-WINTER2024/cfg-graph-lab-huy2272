@@ -68,3 +68,19 @@ https://github.com/huy2272/aaf-easydiary/blob/master/app/src/gms/java/me/blog/ko
 ## Question 1
 
 ![image](https://github.com/SOEN345-WINTER2024/cfg-graph-lab-huy2272/assets/91811941/072e1cb9-0f90-4460-9437-1d327651b890)
+
+
+## Question 2
+
+Node Coverage
+
+TR: {1,2,3,4,5,6,7,8,9,10,11,12}
+
+Paths: 
+[1,5,6,8,9,11,12],[1,2,4,5,6,8,9,10,12],[1,2,3,5,6,8,9,10,12],[1,5,6,7,9,10,12]
+
+## Question 3
+
+Edge Coverage
+
+TR: {[1,2],[1,5],[2,3],[2,4],[3,5],[4,5],[5,6],[6,7],[6,8],[7,9],[8,9],[9,10],[9,11],[10,12],[11,12]}
